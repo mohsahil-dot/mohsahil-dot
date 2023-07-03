@@ -1,4 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=mohSahil%20🌻&width=1000&height=300)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=mohSahil-dot%20🌻&width=1000&height=300)](https://github.com/Akshay090/svg-banners)
 <h1 align="center">Hi, I'm Mohammad Sahil</h1>
 <h3 align="center">A passionate Mern Stack Web Developer from India</h3>
 
