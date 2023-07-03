@@ -1,8 +1,6 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=mohSahil%20🌻&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=mohSahil%20🌻&width=70000&height=300)](https://github.com/Akshay090/svg-banners)
 <h1 align="center">Hi, I'm Mohammad Sahil</h1>
 <h3 align="center">A passionate Mern Stack Web Developer from India</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohsahil-dot" alt="mohsahil-dot" /></a> </p>
 
 - 🌱 I'm currently learning **Next.js & TypeScript**
 
