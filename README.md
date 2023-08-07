@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Mohammad Sahil</h1>
 <h3 align="center">A Passionate Mern Stack Web Developer from India</h3>
 
-- 🌱 I'm currently learning **Next.js & TypeScript**
+- 🌱 I'm currently learning **Three.js & TypeScript**
 
 - 💬 Ask me about **React, Node.js, JavaScript**
 
