@@ -1,18 +1,13 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=mohSahil-dot%20🌻&width=1000&height=300)](https://github.com/mohsahil-dot?tab=repositories)
 <h1 align="center">Hi, I'm Mohammad Sahil</h1>
-<h3 align="center">A Passionate Mern Stack Web Developer from India</h3>
 
-- 🌱 I'm currently learning **Three.js & TypeScript**
-
-- 💬 Ask me about **React, Node.js, JavaScript**
-
-- 📫 How to reach me **hello@sasahil.in**
+- 📫 How to reach me **sahil@rysng.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sahil1511" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahil1511" height="30" width="40" /></a>
-<a href="https://instagram.com/sasahil.in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sasahil.in" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/sasahill" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sasahill" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mohammadsahil1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahil1511" height="30" width="40" /></a>
+<a href="https://instagram.com/how_sahil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sasahil.in" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/sahilrysng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sasahill" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
